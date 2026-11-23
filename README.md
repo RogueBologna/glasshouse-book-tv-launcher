@@ -1,3 +1,4 @@
+<img width="2781" height="1478" alt="image" src="https://github.com/user-attachments/assets/d60ea67a-cdd7-46f1-9d07-5f776b88acaf" />
 # Book TV — Fantasy Book Launcher
 
 A single-page HTML launcher designed for compatible LG webOS / Glasshouse environments. It features a fantasy-book interface, animated page turns, gold selection highlight, page-turn sounds, clock, and local weather.
